@@ -15,6 +15,7 @@ Hey there!,
     While I was creating a webprogram with the need to detect a swipe movement on an element,
      I had created this function which seems to work just fine to suite that functionality.
     and now I am sharing it here with you for your own personal benefits.
+    you can follow me on twitter and on Instagram @codefingers for more of the good stuffs.
 
 
     
